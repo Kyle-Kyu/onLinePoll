@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>투표하기</title>
+<title>title~~~~~~~~~</title>
 <!-- 
 	fabicon: title 앞에 표시되는 사이트를 대표하는 작은 이미지를 의미한다. -->
 <link rel="icon" href="./favicon.ico">
